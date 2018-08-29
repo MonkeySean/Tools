@@ -211,26 +211,3 @@ macro switch_cpp_hpp()
 ![create_prj3](E:\work\mBlog\source insight 3.5\create_prj3.PNG)
 
 ![create_prj4](E:\work\mBlog\source insight 3.5\create_prj4.PNG)
-
-
-
-
-
-
-
-## 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
