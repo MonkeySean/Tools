@@ -13,7 +13,7 @@ typora-root-url: ./
 
   因为JDK包含了JRE，所以JRE不用再单独安装
 
-  ![JDK安装图1](/JDK安装图1.png)
+  ![JDK安装图1](JDK安装图1.png)
 
 - 步骤3 设置环境变量
 
