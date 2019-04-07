@@ -24,3 +24,4 @@ typora-root-url: ./
 - 步骤4 检查是否已安装好
 
   ​	快捷键WIN+R，CMD，进入C盘，输入java -version查看当前JAVA版本，输入where java查看java的来源。
+
