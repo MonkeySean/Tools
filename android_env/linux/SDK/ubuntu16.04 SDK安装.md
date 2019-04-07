@@ -14,7 +14,7 @@
 
   在需使用SDK的用户的home目录内，找到隐藏的.bashrc文件[^1]，命令行输入gedit ~/.bashrc,在最后加上
 
-  export ANDROID_SDK_HOME=/home/sxy/Android/Sdk/android-sdk-linux
+  export ANDROID_SDK_HOME=/home/monkeysean/Android/Sdk/android-sdk-linux[^2]
 
   export PATH=$PATH:${ANDROID_SDK_HOME}
 
@@ -25,6 +25,7 @@
   然后保存，退出。输入 source ~/.bashrc使该文件参数更新
 
   [^1]: 或者修改/etc/profile也行，该文件是所有用户共享的环境变量
+  [^2]: 在该用户所在的安装目录
 
 - 步骤四 添加32位库
 
